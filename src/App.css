@@ -2,10 +2,10 @@
   text-align: center;
 }
 
-.App-logo {
+/* .App-logo {
   height: 40vmin;
-}
-
+} */
+/* 
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -19,4 +19,14 @@
 
 .App-link {
   color: #09d3ac;
+} */
+
+.App-image{
+  /* position: absolute; */
+  width: 416px;
+  height: 313px;
+  left: 311px;
+  top: 327px;
+
+  background: url(IMG_6234.JPG);
 }

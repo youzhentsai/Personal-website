@@ -1,0 +1,37 @@
+p {
+    white-space: pre-wrap;
+}
+
+.About-title{
+/* position: absolute;
+width: 510px;
+height: 90px;
+left: 79px;
+top: 79px; */
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 64px;
+line-height: 140.62%;
+/* identical to box height, or 90px */
+
+color: #F6B688;
+}
+
+.About-content{
+/* position: absolute;
+width: 433px;
+height: 186px;
+left: 656px;
+top: 244px; */
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 40px;
+line-height: 47px;
+text-align: center;
+
+color: #FDD6D6;
+}
